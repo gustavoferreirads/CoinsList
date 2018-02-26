@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestPsafe</string>
+    <string name="name">TextView</string>
+    <string name="last_update">Last update:</string>
+</resources>
